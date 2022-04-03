@@ -1,0 +1,6 @@
+body {
+  background-color: aliceblue;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 5;
+}
